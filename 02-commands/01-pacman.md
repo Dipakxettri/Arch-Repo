@@ -15,7 +15,8 @@
 - `-S` → sync (install/update)  
 - `-y` → refresh package database  
 - `-u` → upgrade all packages  
-**Explanation:** `-Syu` = refresh database + upgrade system
+**Explanation:** `-Syu` = refresh database + upgrade system.
+**Important Note:** As a Arch user it is recommanded to update our system 2 times a week.
 
 ---
 
