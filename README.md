@@ -11,3 +11,6 @@ This repository is a collection of my personal experiences, solutions, and confi
 Everything here comes from my hands-on experience with Arch Linux, and I keep updating it as I learn and exprience new things.  
 
 Feel free to explore, learn, and contribute!
+
+![Arch Linux](Assists/662366-arch-linux-1366x768-resolution-hd-4k-wallpaper-image-background-photo-and-picture.jpg)
+
