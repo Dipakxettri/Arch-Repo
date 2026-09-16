@@ -18,6 +18,7 @@
 **Explanation:** `-Syu` = refresh database + upgrade system.
 **Important Note:** As a Arch user it is recommanded to update our system 2 times a week.
 
+
 ---
 
 ### **3. Search for a package**
@@ -25,6 +26,18 @@
 **Flags:**  
 - `-S` → sync  
 - `-s` → search in repositories
+
+`pacman -Si package_name`
+
+**Flags:**
+- `-i` → info
+
+`pacman -Sl extra`
+
+**Flags:**
+- `-l` → all
+
+`pacman -Qqe` → Lists only the names of packages you explicitly installed yourself
 
 ---
 
@@ -46,4 +59,8 @@
 ### **6. Check installed packages**
 `pacman -Q`  
 **Flags:**  
-- `-Q` → query local packages
+- `-Q` → query All packages
+- `-n` → query native packages
+- `-m` → query More/Foreign packages(AUR)
+
+These -n and -m can be combined with -Q ex: -Qn/-Qm
