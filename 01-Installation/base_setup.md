@@ -47,3 +47,7 @@ Reference: [timedatectl man page](https://man.archlinux.org/man/timedatectl.1)
 
 * `timedatectl set-timezone [TIMEZONE]`: Set your local system timezone.
 * `timedatectl status`: Verify current time synchronization and zone settings.
+
+## 5. Partitioning Formatting and Mounting
+
+[PartitioningFormatting&Mounting](PartitioningFormatting&Mounting.md)
